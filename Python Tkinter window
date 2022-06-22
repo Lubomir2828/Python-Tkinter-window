@@ -1,0 +1,14 @@
+from tkinter import *
+
+window = Tk()
+# window size
+window.geometry('800x500')
+# window color
+window.configure(bg='#262626')
+# window name
+window.title('Python')
+
+window.mainloop()
+
+
+
